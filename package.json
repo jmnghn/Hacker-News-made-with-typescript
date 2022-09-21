@@ -1,0 +1,10 @@
+{
+  "homepage": "https://jmnghn.github.io/Hacker-News-made-with-typescript",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0",
+    "typescript": "^4.8.3"
+  }
+}
